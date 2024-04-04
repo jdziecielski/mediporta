@@ -1,5 +1,5 @@
 import React from 'react';
-import Table from '../Table.js'; // Adjust the import path according to your file structure
+import Table from '../Table.js';
 
 export default {
   title: 'Table',
